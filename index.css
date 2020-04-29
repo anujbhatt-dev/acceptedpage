@@ -141,3 +141,10 @@ input{
        grid-template-rows: 1fr;
   }
 }
+textarea{
+  height: 40%;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: none;
+}
